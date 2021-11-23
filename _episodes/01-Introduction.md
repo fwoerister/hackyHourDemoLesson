@@ -14,7 +14,7 @@ keypoints:
 
 ---
 
-## What is LIVIVO?
+## What is this lesson about?
 
 LIVIVO is an interdisciplinary search engine for literature and information in the field of life sciences (medicine, health, nutrition, and environmental and agricultural sciences). It is run by ZB MED – Information Centre for Life Sciences.
 
