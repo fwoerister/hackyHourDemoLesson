@@ -1,5 +1,5 @@
 ---
-title: "What is LIVIVO?"
+title: "What is this lesson about?"
 teaching: 20
 exercises: 10
 questions:
